@@ -68,9 +68,9 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework**, and **SQL Serve
 ---
 ## 📊 GitHub Stats
 
-![Estatísticas de Emerson](https://github-readme-stats.vercel.app/api?username=emersonssantana&show_icons=true&theme=tokyonight&count_private=true)
+https://github-readme-stats.vercel.app/api?username=emersonssantana&show_icons=true&theme=tokyonight&count_private=true
 
-![Linguagens de Emerson](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonssantana&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=emersonssantana&layout=compact&theme=tokyonight
 
 ## 🚀 Philosophy
 
