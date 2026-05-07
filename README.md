@@ -65,7 +65,6 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework**, and **SQL Serve
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonssantana&layout=compact&theme=tokyonight" />
 </p>
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonssantana&show_icons=true&theme=radical)
 ---
 
 ## 🚀 Philosophy
