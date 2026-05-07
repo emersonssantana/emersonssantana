@@ -1,4 +1,4 @@
-# Hi 👋, I'm Emerson Santana
+# Hi , I'm Emerson Santana
 
 🚀 **Software Engineer | C# | .NET | ASP.NET Core | EF Core | SQL Server | OOP**  
 🇧🇷 Brazil
