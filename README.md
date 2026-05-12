@@ -65,6 +65,10 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework**, and **SQL Serve
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonssantana&layout=compact&theme=tokyonight" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonssantana&show_icons=true&theme=dracula&locale=pt-br)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ## 🚀 Philosophy
