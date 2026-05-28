@@ -67,7 +67,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 
 ---
 
-## 🚀 Philosophy
+## 🎯 Philosophy
 
 > _"Focus on the fundamentals, and the technology will follow. Code is about solving problems and creating value through logic and architecture."_
 
