@@ -6,7 +6,7 @@
 Graduated in **Systems Analysis and Development**, focused on building robust applications using the **Microsoft Ecosystem**. 
 **Back-end Developer** with a strong focus on **C#**, applying **Clean Code** and **OOP** to deliver high-quality, maintainable code.
 
-Technical proficiency in **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
+Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server**.
 
 ---
 
