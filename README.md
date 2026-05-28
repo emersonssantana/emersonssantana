@@ -29,7 +29,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 ## 🧠 What I do
 
 -   🏗️ **Backend Solutions:** Developing scalable server-side logic using ASP.NET Core.
--   🧩 **Clean Architecture:** Applying OOP, Clean Code, and SOLID principles.
+-   🧩 **Clean Architecture:** Applying OOP, Clean Code and SOLID principles.
 -   💾 **Data Persistence:** Managing relational databases with SQL Server and Entity Framework.
 -   ⚡ **Performance & Logic:** Writing optimized code with LINQ and Asynchronous programming.
 -   📊 **Dev Workflow:** Version control and collaborative development via Git & GitHub.
