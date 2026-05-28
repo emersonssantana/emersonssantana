@@ -61,7 +61,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=emersonssantana&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=emersonssantana&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emersonssantana&layout=compact&theme=tokyonight" />
 </p>
 
