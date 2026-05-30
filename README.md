@@ -37,7 +37,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 ---
 
 ## 🛠️ Tech Stack
-<blockquote>
+
 ### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -55,7 +55,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-</blockquote>
+
 ---
 
 ## 📊 GitHub Stats
