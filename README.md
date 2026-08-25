@@ -36,7 +36,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 #### 💻 Languages
 <p align="left">
@@ -44,20 +44,20 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+#### 📚 Frameworks, Platforms & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+#### 💾 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🧰 Tools & DevOps
+#### 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -66,8 +66,7 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </p>
-
+</p>
 ---
 
 ## 📊 GitHub Stats
