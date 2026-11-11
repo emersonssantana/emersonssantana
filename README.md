@@ -1,19 +1,19 @@
-# Hi ,👋 I'm Emerson Santana
+# Hi, 👋 I'm Emerson Santana
 
-🚀 **Software Engineer | C# | .NET | ASP.NET Core | EF Core | SQL Server | OOP**  
+🚀 **Software Engineer | C# | .NET | ASP.NET Core | PHP | EF Core | SQL Server | OOP**  
 🇧🇷 Brazil
 
-Graduated in **Systems Analysis and Development**, focused on building robust applications using the **Microsoft Ecosystem**. 
-**Back-end Developer** with a strong focus on **C#**, applying **Clean Code** and **OOP** to deliver high-quality, maintainable code.
+Graduated in **Systems Analysis and Development**, focused on building robust applications using the **Microsoft Ecosystem** and expanding into **PHP & Modern Back-End Architectures**.  
+**Back-end Developer** applying **Clean Code**, **OOP**, and **AI-Assisted Development (Claude Code)** to deliver high-quality, maintainable code.
 
-Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server**.
+Technical proficiency in **C# (.NET, ASP.NET Core, EF Core)** and **PHP (MySQL, PDO, DAO Pattern)**.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/emersonssantana/">
+  <a href="https://www.linkedin.com/in/emersonssantana/">
     <img src="https://img.shields.io/badge/LinkedIn-emersonssantana-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/emersonssantana">
@@ -28,11 +28,12 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
 
 ## 🧠 What I do
 
--   🏗️ **Backend Solutions:** Developing scalable server-side logic using ASP.NET Core.
--   🧩 **Clean Architecture:** Applying OOP, Clean Code and SOLID principles.
--   💾 **Data Persistence:** Managing relational databases with SQL Server and Entity Framework.
--   ⚡ **Performance & Logic:** Writing optimized code with LINQ and Asynchronous programming.
--   📊 **Dev Workflow:** Version control and collaborative development via Git & GitHub.
+- 🏗️ **Backend Solutions:** Developing scalable server-side logic and web applications using C# (.NET) and PHP.
+- 🧩 **Clean Architecture & Design Patterns:** Applying OOP, SOLID, Clean Code, and the DAO pattern across different stacks.
+- 💾 **Data Persistence & Security:** Managing relational databases (SQL Server/MySQL), prepared statements, and user authentication.
+- 🤖 **AI Workflow & Productivity:** Leveraging Claude Code and modern AI techniques for rapid, high-quality development.
+- ⚡ **Performance & Logic:** Writing optimized code with LINQ, asynchronous programming, and clean data flow.
+- 📊 **Dev Workflow:** Version control, structured collaboration via Git & GitHub, and local server configurations.
 
 ---
 
@@ -57,12 +58,13 @@ Technical proficiency in **ASP.NET Core**, **Entity Framework** and **SQL Server
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🛠️ Tools
+#### 🛠️ Tools & AI Workflows
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
